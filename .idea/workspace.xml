@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="84281cb6-4e63-4200-ae5d-486674c04e6f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cig87XKuHSG6lCe9fHNV0t0pMf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.123">
+    <configuration name="12" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="eatProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="123" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="eatProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/123.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="eat" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="eatProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/eat.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="formula" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="eatProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/formula.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.123" />
+        <item itemvalue="Python.eat" />
+        <item itemvalue="Python.12" />
+        <item itemvalue="Python.formula" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="84281cb6-4e63-4200-ae5d-486674c04e6f" name="Default Changelist" comment="" />
+      <created>1591016665670</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591016665670</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="304" y="43" key="#Inspections" timestamp="1591016715023">
+      <screen x="45" y="21" width="1321" height="747" />
+    </state>
+    <state x="304" y="43" key="#Inspections/45.21.1321.747@45.21.1321.747" timestamp="1591016715023" />
+    <state width="882" height="155" key="GridCell.Tab.0.bottom" timestamp="1594230360160">
+      <screen x="45" y="21" width="1321" height="747" />
+    </state>
+    <state width="882" height="155" key="GridCell.Tab.0.bottom/45.21.1321.747@45.21.1321.747" timestamp="1594230360160" />
+    <state width="882" height="155" key="GridCell.Tab.0.center" timestamp="1594230360159">
+      <screen x="45" y="21" width="1321" height="747" />
+    </state>
+    <state width="882" height="155" key="GridCell.Tab.0.center/45.21.1321.747@45.21.1321.747" timestamp="1594230360159" />
+    <state width="882" height="155" key="GridCell.Tab.0.left" timestamp="1594230360159">
+      <screen x="45" y="21" width="1321" height="747" />
+    </state>
+    <state width="882" height="155" key="GridCell.Tab.0.left/45.21.1321.747@45.21.1321.747" timestamp="1594230360159" />
+    <state width="882" height="155" key="GridCell.Tab.0.right" timestamp="1594230360159">
+      <screen x="45" y="21" width="1321" height="747" />
+    </state>
+    <state width="882" height="155" key="GridCell.Tab.0.right/45.21.1321.747@45.21.1321.747" timestamp="1594230360159" />
+    <state width="882" height="228" key="GridCell.Tab.1.bottom" timestamp="1594221855278">
+      <screen x="45" y="21" width="1321" height="747" />
+    </state>
+    <state width="882" height="228" key="GridCell.Tab.1.bottom/45.21.1321.747@45.21.1321.747" timestamp="1594221855278" />
+    <state width="882" height="228" key="GridCell.Tab.1.center" timestamp="1594221855278">
+      <screen x="45" y="21" width="1321" height="747" />
+    </state>
+    <state width="882" height="228" key="GridCell.Tab.1.center/45.21.1321.747@45.21.1321.747" timestamp="1594221855278" />
+    <state width="882" height="228" key="GridCell.Tab.1.left" timestamp="1594221855278">
+      <screen x="45" y="21" width="1321" height="747" />
+    </state>
+    <state width="882" height="228" key="GridCell.Tab.1.left/45.21.1321.747@45.21.1321.747" timestamp="1594221855278" />
+    <state width="882" height="228" key="GridCell.Tab.1.right" timestamp="1594221855278">
+      <screen x="45" y="21" width="1321" height="747" />
+    </state>
+    <state width="882" height="228" key="GridCell.Tab.1.right/45.21.1321.747@45.21.1321.747" timestamp="1594221855278" />
+    <state x="213" y="21" key="SettingsEditor" timestamp="1594087876200">
+      <screen x="45" y="21" width="1321" height="747" />
+    </state>
+    <state x="213" y="21" key="SettingsEditor/45.21.1321.747@45.21.1321.747" timestamp="1594087876200" />
+    <state x="694" y="229" key="com.intellij.ide.util.TipDialog" timestamp="1594221990484">
+      <screen x="45" y="21" width="1321" height="747" />
+    </state>
+    <state x="694" y="229" key="com.intellij.ide.util.TipDialog/45.21.1321.747@45.21.1321.747" timestamp="1594221990484" />
+    <state x="363" y="21" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1594087768895">
+      <screen x="45" y="21" width="1321" height="747" />
+    </state>
+    <state x="363" y="21" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/45.21.1321.747@45.21.1321.747" timestamp="1594087768895" />
+    <state x="468" y="154" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1593241223389">
+      <screen x="45" y="21" width="1321" height="747" />
+    </state>
+    <state x="468" y="154" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/45.21.1321.747@45.21.1321.747" timestamp="1593241223389" />
+    <state x="798" y="21" width="568" height="733" key="dock-window-1" timestamp="1593211364709">
+      <screen x="45" y="21" width="1321" height="747" />
+    </state>
+    <state x="798" y="21" width="568" height="733" key="dock-window-1/45.21.1321.747@45.21.1321.747" timestamp="1593211364709" />
+  </component>
+</project>
